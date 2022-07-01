@@ -1,5 +1,5 @@
  # Sobre mim
-- 👋 Olá, meu nome é **@Flashoone**
+- Hello my name is **@Flashoone**
 - 👀 Meu Instagram para contato é **@alanrichard_cwb**
 - 🌱 Eu estou interessado em aprender e conhecer novas línguagens...
 - :+1: É sobre isso..
