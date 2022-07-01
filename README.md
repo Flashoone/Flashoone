@@ -1,4 +1,4 @@
- # Sobre mim
+ # About me
 - Hello my name is **@Flashoone**
 - My Instagram **@alanrichard_cwb**
 - Those who don't believe in magic will never find it
