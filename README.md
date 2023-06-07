@@ -1,6 +1,6 @@
  # About me
 - Hello my name is **Alan Richard**
-- My Instagram **@alanrichard_cwb**
+- My Instagram **@alanrichard.7**
 - Those who don't believe in magic will never find it
 <!---
 Flashoone/Flashoone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
